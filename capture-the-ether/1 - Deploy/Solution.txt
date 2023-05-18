@@ -1,0 +1,1 @@
+Simply deploy the contract.
